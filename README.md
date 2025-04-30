@@ -1,7 +1,5 @@
 # Bike Sharing Demand Analysis & Prediction (ML vs DL)
 
-![Bike Sharing](https://miro.medium.com/max/1400/1*D1W1ZkK5z8p8pMf7T1lZjw.jpeg)
-
 ## Project Overview
 This project analyzes bike sharing patterns and compares traditional Machine Learning (ML) with Deep Learning (DL) approaches for predicting bike rental demand. The analysis uses two datasets (daily and hourly records) from a bike-sharing system in Washington D.C.
 
